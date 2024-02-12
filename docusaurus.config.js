@@ -108,7 +108,7 @@ const config = {
       },
       prism: {
         theme: prismThemes.github,
-        additionalLanguages: ['lua', 'bash'],
+        additionalLanguages: ['lua', 'bash', 'json'],
         darkTheme: prismThemes.dracula,
       },
     }),
