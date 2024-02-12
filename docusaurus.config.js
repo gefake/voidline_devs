@@ -41,8 +41,8 @@ const config = {
 				docs: {
 					routeBasePath: "/",
 					sidebarPath: require.resolve('./sidebars.js'),
-					// editUrl: 'https://github.com/AMD-NICK/docusaurustest/tree/main/',
-					// showLastUpdateTime: true,
+          editUrl: 'https://github.com/gefake/voidline_devs/tree/main/',
+					showLastUpdateTime: true,
 				},
 
 				blog: {
@@ -108,6 +108,7 @@ const config = {
       },
       prism: {
         theme: prismThemes.github,
+        additionalLanguages: ['lua', 'bash'],
         darkTheme: prismThemes.dracula,
       },
     }),

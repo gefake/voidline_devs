@@ -1,0 +1,8 @@
+{
+  "label": "Задачки",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Задачи для начального уровня знаний"
+  }
+}
