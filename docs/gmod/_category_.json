@@ -1,8 +1,8 @@
 {
-  "label": "Garry's Mod",
+  "label": "Гайды",
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "Разработка внутри Garry's Mod"
+    "description": "Гайды по тем или иным вещам, связанных с разработкой в Garry's Mod"
   }
 }
